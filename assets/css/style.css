@@ -1,0 +1,92 @@
+/* Added background image */
+body {
+    background-image: url('../images/background4.jpeg')
+}
+/* added background color to header */
+#head {
+    background-color: purple;   
+}
+
+/* added gradient background color to footer */
+#foot {
+    background-image: linear-gradient(deeppink, black);
+}
+/* aligned text for header */
+.header {
+	color: white;
+	font-size: 36px;
+	text-align: center;
+    text-shadow: 2px 2px black;
+    position: relative;
+}
+
+#starter {
+    margin-top: 28px;
+}
+
+.input-field label {
+    color: lightgray;
+}
+
+h6 {
+    text-align: center;
+    color: whitesmoke;
+    font-size: larger;
+    padding-top: 5%;
+    text-decoration-line: underline;
+}
+/* added gradient color */
+#results-header {
+    text-align: center;
+    color: whitesmoke;
+    background-image: linear-gradient(purple, #00CCCC);
+}
+
+.footer-copyright {
+    text-align: center;
+}
+
+.footer-text {
+    text-align: center;
+    ;
+}
+
+h5 {
+    text-align:flex;
+}
+
+#results-page {
+
+    /* display: none;  */
+ }
+/* fixed position of spotify box */
+#spot {
+    padding-right: 12px;
+}
+
+#result {
+    margin-top: 25px;
+
+}
+
+#footerText{
+    text-align: center
+}
+
+h4 {
+    text-align: center;
+    color: black;
+}
+/* no minimum height for ingredients card */
+#ingredients-card {
+    min-height: none;
+}
+
+ul {
+    color: whitesmoke;
+}
+
+#recents {
+    color: aliceblue;
+}
+
